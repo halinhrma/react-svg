@@ -1,0 +1,10 @@
+circle {
+  /* stroke-dashoffset: 100; */
+  transition: stroke-dashoffset 1s linear;
+  /* stroke: #666; */
+  /* stroke-width: 13px; */
+}
+#bar {
+  /* stroke: #af8145; */
+  /* stroke-dashoffset: 80; */
+}
